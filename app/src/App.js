@@ -88,7 +88,7 @@ function App() {
         </label>
 
         <label>
-          Deposit Amount (in Wei)
+          Deposit Amount (in ETH)
           <input type="text" id="wei" defaultValue="1" />
         </label>
 
