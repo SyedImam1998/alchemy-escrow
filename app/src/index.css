@@ -10,6 +10,7 @@ body {
   padding: 40px;
   border: 1px solid #ddd;
   background-color: #fff;
+  border-radius: 20px;
 }
 
 h1 {
